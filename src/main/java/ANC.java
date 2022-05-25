@@ -1,3 +1,3 @@
 public class ANC {
-    dsfgdfg
+    private static final String TAG = "sdfdsf";
 }
